@@ -1,0 +1,15 @@
+C:\tiagaodograu\Sistemadealuno\ex2\bin\Debug\net8.0\ex2.exe
+C:\tiagaodograu\Sistemadealuno\ex2\bin\Debug\net8.0\ex2.deps.json
+C:\tiagaodograu\Sistemadealuno\ex2\bin\Debug\net8.0\ex2.runtimeconfig.json
+C:\tiagaodograu\Sistemadealuno\ex2\bin\Debug\net8.0\ex2.dll
+C:\tiagaodograu\Sistemadealuno\ex2\bin\Debug\net8.0\ex2.pdb
+C:\tiagaodograu\Sistemadealuno\ex2\obj\Debug\net8.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\tiagaodograu\Sistemadealuno\ex2\obj\Debug\net8.0\ex2.AssemblyInfoInputs.cache
+C:\tiagaodograu\Sistemadealuno\ex2\obj\Debug\net8.0\ex2.AssemblyInfo.cs
+C:\tiagaodograu\Sistemadealuno\ex2\obj\Debug\net8.0\ex2.csproj.CoreCompileInputs.cache
+C:\tiagaodograu\Sistemadealuno\ex2\obj\Debug\net8.0\ex2.sourcelink.json
+C:\tiagaodograu\Sistemadealuno\ex2\obj\Debug\net8.0\ex2.dll
+C:\tiagaodograu\Sistemadealuno\ex2\obj\Debug\net8.0\refint\ex2.dll
+C:\tiagaodograu\Sistemadealuno\ex2\obj\Debug\net8.0\ex2.pdb
+C:\tiagaodograu\Sistemadealuno\ex2\obj\Debug\net8.0\ex2.genruntimeconfig.cache
+C:\tiagaodograu\Sistemadealuno\ex2\obj\Debug\net8.0\ref\ex2.dll
