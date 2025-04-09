@@ -1,0 +1,15 @@
+C:\tiagaodograu\Sistemadealuno\ex4\bin\Debug\net8.0\ex4.exe
+C:\tiagaodograu\Sistemadealuno\ex4\bin\Debug\net8.0\ex4.deps.json
+C:\tiagaodograu\Sistemadealuno\ex4\bin\Debug\net8.0\ex4.runtimeconfig.json
+C:\tiagaodograu\Sistemadealuno\ex4\bin\Debug\net8.0\ex4.dll
+C:\tiagaodograu\Sistemadealuno\ex4\bin\Debug\net8.0\ex4.pdb
+C:\tiagaodograu\Sistemadealuno\ex4\obj\Debug\net8.0\ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\tiagaodograu\Sistemadealuno\ex4\obj\Debug\net8.0\ex4.AssemblyInfoInputs.cache
+C:\tiagaodograu\Sistemadealuno\ex4\obj\Debug\net8.0\ex4.AssemblyInfo.cs
+C:\tiagaodograu\Sistemadealuno\ex4\obj\Debug\net8.0\ex4.csproj.CoreCompileInputs.cache
+C:\tiagaodograu\Sistemadealuno\ex4\obj\Debug\net8.0\ex4.sourcelink.json
+C:\tiagaodograu\Sistemadealuno\ex4\obj\Debug\net8.0\ex4.dll
+C:\tiagaodograu\Sistemadealuno\ex4\obj\Debug\net8.0\refint\ex4.dll
+C:\tiagaodograu\Sistemadealuno\ex4\obj\Debug\net8.0\ex4.pdb
+C:\tiagaodograu\Sistemadealuno\ex4\obj\Debug\net8.0\ex4.genruntimeconfig.cache
+C:\tiagaodograu\Sistemadealuno\ex4\obj\Debug\net8.0\ref\ex4.dll
